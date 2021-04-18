@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/Generic">
+        <file>Resources/Arrow.png</file>
+        <file>Resources/Negative.bmp</file>
+        <file>Resources/Positive.bmp</file>
+        <file>Resources/Promotion.png</file>
+        <file>Resources/RankDown.png</file>
+        <file>Resources/kaavi.png</file>
+    </qresource>
+</RCC>
