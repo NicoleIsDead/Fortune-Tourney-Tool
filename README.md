@@ -1,5 +1,5 @@
 # Fortune-Tourney-Tool
-A small RNG based tool that I made for masterofn00bs's mahjong tourney.
+A small RNG based tool that I made for Kingdomfreak's mahjong tourney.
 Your chance increases/decreases based on your score. It then decides if you win or lose by using an RNG value.
 
 
