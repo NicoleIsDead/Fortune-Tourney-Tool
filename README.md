@@ -58,6 +58,9 @@ It should look like this:
 4. ???
 5. Profit
 
+## Sample images
+![gui](/sample/gui.png?raw=true "Optional Title")
+
 ## Changelog
 V1.0
 - Initial Release
